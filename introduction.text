@@ -1,0 +1,7 @@
+what is Design Patterns
+
+Design patterns are a collection of common solutions to solve common software development design problems
+
+In plain English, this simply means software developers have been faced with specific application design challenges and after trying out a few approaches found a few solutions that solved those issues. These approaches have been used and adopted by the software designer and developer worlds and were deemed to be the most efficient ways of solving those specific issues.
+
+There are currently twenty-three patterns and they are grouped into three categories: creational, behavioral and structural. 
