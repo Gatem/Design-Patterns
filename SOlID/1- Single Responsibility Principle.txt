@@ -1,0 +1,4 @@
+Single responsibility reference to that the class should have only one single responsibility / one function to do (separation of concerns)
+
+Using many functions within a single class makes it difficult for maintenance and adjustments, on the other hand 
+using the single responsibility principle helps us to reuse the functionality in a better way.
